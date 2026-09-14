@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../../../app.dart';
+import '../../../app/app.dart';
 import '../../../core/data/local_vehicle_repository.dart';
 import '../../../core/models/vehicle.dart';
 
