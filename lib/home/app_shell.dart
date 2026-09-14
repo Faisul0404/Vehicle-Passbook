@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-import '../../../app/app.dart';
-import '../../../core/data/local_vehicle_repository.dart';
-import '../../../core/models/vehicle.dart';
+import '../app/app.dart';
+import '../core/data/local_vehicle_repository.dart';
+import '../core/models/vehicle.dart';
 
 class AppShell extends StatefulWidget {
   const AppShell({super.key});

@@ -7,7 +7,7 @@ import 'package:flutter_native_splash/flutter_native_splash.dart';
 import 'package:get_it/get_it.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 
-import 'app/config/app_environment.dart';
+import 'utils/config/app_environment.dart';
 
 GetIt get getIt => GetIt.instance;
 

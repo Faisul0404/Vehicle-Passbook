@@ -1,5 +1,5 @@
 import 'app/app.dart';
-import 'app/config/app_environment.dart';
+import 'utils/config/app_environment.dart';
 import 'bootstrap.dart';
 
 Future<void> main() => bootstrap(
