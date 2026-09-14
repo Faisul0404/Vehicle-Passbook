@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../features/auth/presentation/login_screen.dart';
+import '../auth/login_screen.dart';
 
 class AppColors {
   static const navy = Color(0xFF1B3A6B);
